@@ -1,5 +1,24 @@
 # final_case
+
 Kredi Kartı Harcamaları Veri Analizi
+
+---
+
+# Veri Seti
+Projede iki adet CSV dosyası kullanılmıştır:
+- `users.csv`: Kullanıcı bilgilerini içerir 
+- `transactions.csv`: Kredi kartı harcama bilgilerini içerir.
+
+---
+
+# Gereksinimler
+Bilgisayarınızda Python 3.x yüklü olmalıdır.  
+Gerekli kütüphaneler:
+
+pip install pandas matplotlib seaborn
+pip install notebook
+
+
 
 
 <img width="922" height="550" alt="şehir_toplamharcama" src="https://github.com/user-attachments/assets/3fc44f0a-315c-4a15-9bd0-ee1ceaad8325" />
