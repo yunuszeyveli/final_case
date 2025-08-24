@@ -21,13 +21,11 @@ pip install notebook
 
 
 
-<img width="922" height="550" alt="şehir_toplamharcama" src="https://github.com/user-attachments/assets/3fc44f0a-315c-4a15-9bd0-ee1ceaad8325" />
 
+<img width="869" height="641" alt="toplamharcama_yıllıkgelir_sonuc" src="https://github.com/user-attachments/assets/10fe5552-5e79-4dc7-8e63-0d08d59d348b" />
 
-<img width="798" height="538" alt="toplamaharcama_yıllıkgelir" src="https://github.com/user-attachments/assets/5922d03b-4bba-4a44-92f4-3bed6f28496d" />
+<img width="950" height="540" alt="toplamharcama_saat" src="https://github.com/user-attachments/assets/2ad1da87-9031-4060-93fc-1633e4660218" />
 
+<img width="756" height="446" alt="toplamharcama_cinsiyet" src="https://github.com/user-attachments/assets/d756bdf3-1861-4c04-b8ee-6ab0ff311c2e" />
 
-<img width="716" height="451" alt="toplamharcama_cinsiyet" src="https://github.com/user-attachments/assets/3df2502c-4b65-40c8-83cc-9cb25d124dff" />
-
-
-<img width="903" height="547" alt="toplamharcama_saat" src="https://github.com/user-attachments/assets/4ee7c065-9456-477d-8af3-cdc47e9a279d" />
+<img width="943" height="534" alt="şehir_toplamharcama" src="https://github.com/user-attachments/assets/7fc8885e-8053-4ac1-9014-180612fac7b0" />
